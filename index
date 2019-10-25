@@ -1,0 +1,15 @@
+<HTML>
+<BODY background="bg.jpg">
+<center>
+<iframe src="banner.html" height="200" width="900" style="border:none;"></iframe>
+<iframe src="leftpanel.html" height="60" width="900" style="border:none;"></iframe>
+<iframe src="middlerightpanel.html" height="200%" width="900" style="border:none;"name="middlerightpanel"></iframe>
+<iframe src="bottom.html" height="50" width="900" style="border:none;"></iframe>
+</center>
+<center><audio autoplay controls>
+<source src="Dhak.ogg" type="audio/ogg">
+  <source src="Dhak.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio></center>
+</BODY>
+</HTML>
